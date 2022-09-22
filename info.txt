@@ -1,0 +1,18 @@
+{
+	"contenidoStr": "{\n\t\"type\": \"module\",\n\t\"name\": \"tp2\",\n\t\"version\": \"1.0.0\",\n\t\"description\": \"\",\n\t\"main\": \"index.js\",\n\t\"scripts\": {\n\t\t\"test\": \"echo \\\"Error: no test specified\\\" && exit 1\",\n\t\t\"watch\": \"nodemon maptc.js\"\n\t},\n\t\"keywords\": [],\n\t\"author\": \"\",\n\t\"license\": \"ISC\"\n}",
+	"contenidoObj": {
+		"type": "module",
+		"name": "tp2",
+		"version": "1.0.0",
+		"description": "",
+		"main": "index.js",
+		"scripts": {
+			"test": "echo \"Error: no test specified\" && exit 1",
+			"watch": "nodemon maptc.js"
+		},
+		"keywords": [],
+		"author": "",
+		"license": "ISC"
+	},
+	"size": 636
+}
